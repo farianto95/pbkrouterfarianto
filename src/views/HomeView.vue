@@ -1,3 +1,8 @@
 <template>
-  
+  <h1 class="text-center text-3xl ">Beranda</h1>
+  <div class="text-center px-10 py-5">
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint perspiciatis repudiandae voluptatum tempora iusto, a, exercitationem sunt quo vitae quisquam, laborum aliquid veniam id! Dignissimos aliquam error cum in delectus qui incidunt architecto fugit ad rerum! Sequi facilis iste tempore assumenda molestias, labore voluptas, quaerat possimus quis, reprehenderit maxime veritatis rem? Odio facilis expedita dicta aut in commodi doloremque molestiae, eos nam ea excepturi ab consequuntur! Excepturi, facere. Doloremque dolorem sapiente distinctio maiores facilis, ipsam asperiores, magni suscipit ut laudantium voluptates alias animi ea architecto vel similique natus? Accusantium necessitatibus amet nobis velit optio provident iste, asperiores illo libero. Deleniti.</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati distinctio sed tenetur error quas, nemo itaque impedit illo quo quod consequuntur mollitia nisi omnis. Sit qui enim dolorum vel asperiores excepturi nobis repudiandae blanditiis, possimus perferendis deserunt quasi nihil ab consequatur sapiente aspernatur! Ex mollitia consectetur laborum totam sint tempora voluptates illo quam quas quaerat nobis reiciendis adipisci saepe ipsum repellendus eum, ipsam vero animi impedit tenetur debitis cumque! Sapiente, tenetur ab! Laboriosam ex dignissimos iste itaque quos cupiditate, in atque at, quidem voluptates, aspernatur commodi repellat porro ut corporis quas repellendus aperiam fuga minima voluptatibus esse soluta similique nulla?</p>
+
+  </div>
 </template>
